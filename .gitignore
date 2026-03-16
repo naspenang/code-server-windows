@@ -1,0 +1,19 @@
+# OS/editor noise
+Thumbs.db
+.DS_Store
+
+# Bundled runtimes and downloaded installers
+/code-server-runtime/
+/downloads/
+/node22/
+
+# Live deployment state and generated artifacts
+/data/
+/logs/
+
+# Local runtime config and process state
+/configs/code-server-config.yaml
+/configs/code-server-credentials.txt
+/configs/*.pid
+
+start.bat

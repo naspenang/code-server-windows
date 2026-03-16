@@ -1,0 +1,9 @@
+# Example runtime config generated locally by scripts/01-install-standalone-direct-code-server.ps1.
+bind-addr: 127.0.0.1:8080
+auth: password
+password: CHANGE-ME
+cert: false
+user-data-dir: C:/code-server-iis/data/user-data
+extensions-dir: C:/code-server-iis/data/extensions
+disable-telemetry: true
+

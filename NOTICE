@@ -1,0 +1,11 @@
+This repository's MIT license applies to the original repository contents authored for this project, including its scripts, documentation, and example configuration files.
+
+During setup, the repository may download, install, or copy third-party software and assets, including:
+
+- code-server
+- Node.js
+- native modules from an installed Microsoft Visual Studio Code
+
+Those third-party components are not relicensed by this repository. They remain subject to their own licenses, notices, and terms from their respective upstream publishers.
+
+If you redistribute any generated runtime, packaged output, or bundled installation that includes third-party components, review the applicable upstream license terms before distribution.
